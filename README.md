@@ -1,16 +1,25 @@
-## Hi there 👋
+# Привет!
 
-<!--
-**ivleevila78-oss/ivleevila78-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## О себе
+Студент, увлекаюсь разработкой мобильных и веб-приложений. Люблю изучать новые технологии.
 
-Here are some ideas to get you started:
+## Знаю языки программирования:
+![Kotlin](https://img.shields.io/badge/Kotlin-3333ff?style=flat&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+## Мои проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### SteamClone
+Мобильное приложение-клон популярного магазина игр Steam (Android, Kotlin)  
+[Перейти в репозиторий](https://github.com/ivleevila78-oss/MyApplication)
+
+### Bank
+протой банк с простыми функциями (Python)  
+[Перейти в репозиторий](https://github.com/ivleevila78-oss/Bank)
+
+### Web-portfolio
+веб версия порфолио и мои работы (HTML, CSS, С#, JS)
+[Перейти в репозиторий](https://github.com/ivleevila78-oss/WebApplication2)
