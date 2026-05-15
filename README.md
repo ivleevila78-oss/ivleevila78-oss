@@ -23,3 +23,7 @@
 ### Web-portfolio
 веб версия порфолио и мои работы (HTML, CSS, С#, JS)
 [Перейти в репозиторий](https://github.com/ivleevila78-oss/WebApplication2)
+
+### MyDotaBuff
+клон дота бафф сайт (HTML, CSS, С#, JS)
+[Перейти в репозиторий](https://github.com/ivleevila78-oss/clonDotaBuff)
