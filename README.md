@@ -25,5 +25,5 @@
 [Перейти в репозиторий](https://github.com/ivleevila78-oss/WebApplication2)
 
 ### MyDotaBuff
-клон дота бафф сайт (HTML, CSS, С#, JS)
+клон дота бафф сайт (HTML, CSS, JS)
 [Перейти в репозиторий](https://github.com/ivleevila78-oss/clonDotaBuff)
